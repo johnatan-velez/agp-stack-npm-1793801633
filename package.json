@@ -1,0 +1,3 @@
+{ "name": "agp-stack-npm", "version": "1.0.0", "private": true,
+  "scripts": { "test": "node -e \"require('qs'); require('ini'); console.log('ok')\"" },
+  "dependencies": { "qs": "6.5.2", "ini": "1.3.5" } }
